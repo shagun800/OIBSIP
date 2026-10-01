@@ -1,0 +1,8 @@
+.class
+.vscode/
+.idea/
+.classpath
+.project
+.settings/
+.DS_Store
+thumbs.bd
